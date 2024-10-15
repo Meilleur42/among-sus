@@ -1,0 +1,69 @@
+.HideText{
+  background: transparent;
+  border-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  width: 200px ;
+  height: 80px;
+font-size: 40px;
+transition: background-color 0.4s ease, color 0.4s ease;
+font-family: 'Courier New', Courier, monospace;
+
+color: rgb(255, 255, 255);
+}
+
+.HideText:hover{
+    background-color: rgb(255, 254, 254);
+    color: #020202;
+}
+body{
+background-color: #000000;
+}
+
+.HideTextButton{
+  margin-left: auto;
+  margin-right: auto;
+  width: 6em;
+}
+
+.red{
+  color: red;
+}
+
+.yellow{
+  color: yellow;
+}
+
+.green{
+  color: green;
+}
+
+.plum{
+  color: plum;
+}
+
+.blue{
+  color: blue;
+}
+
+.blueviolet{
+  color: blueviolet;
+}
+
+.aliceblue{
+  color: aliceblue;
+}
+
+.brown{
+  color: rgb(100, 48, 23);
+}
+
+.orange{
+  color: orange;
+}
+
+.aqua{
+  color:aqua;
+}
+#Tex1 {
+  visibility: hidden;
+}
